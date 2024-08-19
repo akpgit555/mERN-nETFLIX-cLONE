@@ -14,12 +14,12 @@ Responsive design
 
 # Technologies Used
 
-Front-end: React, CSS
-Back-end: Node.js, Express.js
-Database: MongoDB
-Authentication: JWT, bcrypt
-Deployment: Netlify (Front-end), Heroku (Back-end)
-Testing: Jest, Cypress
+- Front-end: React, CSS
+- Back-end: Node.js, Express.js
+- Database: MongoDB
+- Authentication: JWT, bcrypt
+- Deployment: Netlify (Front-end), Heroku (Back-end)
+- Testing: Jest, Cypress
 
 # How to Run
 
